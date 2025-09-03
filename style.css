@@ -1,0 +1,27 @@
+body{
+    background-color: rgba(0, 169, 236, 0.815);
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+nav a{
+    margin-right: 32px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    background-color: blue;
+    padding: 4px 4px;
+    border-radius: 8px;
+}
+
+img{
+    width: 360px;
+    height: 500px;
+    border-radius: 32px;
+}
